@@ -190,7 +190,3 @@ License
 
 This project is open-source and available under the MIT License.
 
-
----
-
-With this README, your project will stand out on GitHub, clearly outlining its purpose, functionality, and usage.
