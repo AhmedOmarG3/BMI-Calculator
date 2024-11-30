@@ -101,7 +101,7 @@ How to Run the Project
 
 1. Clone the Repository
 
-git clone https://github.com/username/bmi-calculator.git
+git clone https://github.com/AhmedOmarG3/BMI-Calculator.git
 cd bmi-calculator
 
 
